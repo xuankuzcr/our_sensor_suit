@@ -1,5 +1,7 @@
 # our_sensor_suit
-![](./img/Handheld assem.png)
+<div align="center">
+    <img src="img/Handheld_assem.png" width = 100% >
+</div>
 
 Contributors: [Haotian Li](https://github.com/luo-xue), [Yuying Zou](https://github.com/cicizou).
 
